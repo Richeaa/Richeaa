@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Web Developer and Machine Learning Enthusiast with a huge love for Python, SQL, Django, Javascript and Data Visualization.<br>✨ Information System Student<br>🌱 Learning many things, I believe that everyday is a learning opportunity.<br> ❤ Contributing to Open Source.<br>💻 Visit my <a href="https://rich-portfolio.netlify.app/" target="_blank">Portfolio</a> for more details about me.<br>
+I am a Web Developer and Machine Learning Enthusiast with a huge love for Python, SQL, Django, Javascript and Data Visualization.<br>✨ Information System Student<br>🌱 Learning many things, I believe that everyday is a learning opportunity.<br> ❤ Contributing to Open Source.<br>💻 Visit my <a href="https://richea-portfolio.vercel.app/" target="_blank">Portfolio</a> for more details about me.<br>
 
 
 ## 🌐 Socials:
